@@ -1,5 +1,5 @@
 # txtfriendscli
-I wrote a simple bash script that allows you to view people's [friends.txt](https://sr.ht/~thecashewtrader/friends.txt) files.
+I wrote a simple bash script that allows you to view people's [friends.txt](https://sr.ht/~rehandaphedar/friends.txt) files.
 
 # Usage
 ```
